@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mustafa\\desktop\\shopapp\\shopapp.webui\\shopapp.webui.csproj": {}
+    "C:\\Users\\Mustafa\\Desktop\\Asp.Net Core Mvc Uygulamalar\\shopapp\\shopapp.webui\\shopapp.webui.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mustafa\\desktop\\shopapp\\shopapp.webui\\shopapp.webui.csproj": {
+    "C:\\Users\\Mustafa\\Desktop\\Asp.Net Core Mvc Uygulamalar\\shopapp\\shopapp.webui\\shopapp.webui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\desktop\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\Desktop\\Asp.Net Core Mvc Uygulamalar\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
         "projectName": "shopapp.webui",
-        "projectPath": "C:\\Users\\Mustafa\\desktop\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
+        "projectPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net Core Mvc Uygulamalar\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\desktop\\shopapp\\shopapp.webui\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net Core Mvc Uygulamalar\\shopapp\\shopapp.webui\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config"
