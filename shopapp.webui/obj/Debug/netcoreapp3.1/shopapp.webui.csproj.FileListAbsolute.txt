@@ -96,3 +96,5 @@ C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\
 C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
 C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.genruntimeconfig.cache
 C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
