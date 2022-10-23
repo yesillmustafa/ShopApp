@@ -2,62 +2,60 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/modules/bootstrap/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="/modules/bootstrap/dist/css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="~/css/style.css">
     <title>Document</title>
-
 </head>
 <body>
-    @if (IsSectionDefined("MessageBox"))
+
+    @if(IsSectionDefined("MessageBox"))
     {
-        @RenderSection("MessageBox", false)
+         @RenderSection("MessageBox")
     }
     else
     {
-         <div class="alert alert-success text-center m-0">Welcome!</div>
+        <div class="alert alert-primary text-center m-0">
+            Welcome!
+        </div>
     }
 
-    
-
     @await Html.PartialAsync("_navbar")
-    @RenderSection("Header", false)
-    
 
-     <main class="my-3">
-        <div class="container">
+    @RenderSection("Header",false)        
 
-            @if (IsSectionDefined("Categories"))
+    <main class="my-3">
+        <div class="container"> 
+
+            @if(IsSectionDefined("Categories"))
             {
                 <div class="row">
-
                     <div class="col-md-3">
-                        @RenderSection("Categories", false)
+                        @RenderSection("Categories",false)
                     </div>
                     <div class="col-md-9">
-                        @RenderBody()            
+                        @RenderBody()
                     </div>
                 </div>
-            }
+            }   
             else
             {
                  <div class="row">
                     <div class="col-md-12">
-                        @RenderBody()   
+                        @RenderBody()
                     </div>
-                </div>
+                 </div>   
             }
-
+            
         </div>
     </main>
 
     <footer class="py-5 bg-dark text-white text-center">
-        Shop App | 2022
+        Shop App
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    @RenderSection("Scripts", false)
 
+    @RenderSection("Scripts",false)
 </body>
 </html>
