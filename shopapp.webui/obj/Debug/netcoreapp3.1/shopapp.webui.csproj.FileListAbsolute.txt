@@ -1,100 +1,190 @@
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CoreCompileInputs.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.genruntimeconfig.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noProduct.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
-C:\Users\Mustafa\desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CoreCompileInputs.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noProduct.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.genruntimeconfig.cache
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
-C:\Users\Mustafa\Desktop\Asp.Net Core Mvc Uygulamalar\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.business.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.pdb
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.pdb
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.business.pdb
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+C:\Users\Mustafa\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.business.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.pdb
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.pdb
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.business.pdb
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noProduct.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Asp.Net-Core-Mvc-Uygulama_shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
