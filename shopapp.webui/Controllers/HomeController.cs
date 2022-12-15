@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using shopapp.business.Abstract;
 using shopapp.data.Abstract;
-
+using shopapp.webui.ViewModels;
 
 namespace shopapp.webui.Controllers
 {
@@ -11,7 +11,6 @@ namespace shopapp.webui.Controllers
     public class HomeController:Controller
     {      
         private IProductService _productService;
-
         public HomeController(IProductService productService)
         {
             this._productService=productService;
@@ -19,9 +18,9 @@ namespace shopapp.webui.Controllers
         
         public IActionResult Index()
         {
-            var productViewModel = new ProductViewModel()
+            var productViewModel = new ProductListViewModel()
             {
-                Products = _productService.GetAll()
+                Products = _productService.GetHomePageProducts()
             };
 
             return View(productViewModel);

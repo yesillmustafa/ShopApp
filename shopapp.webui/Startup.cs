@@ -18,18 +18,17 @@ namespace shopapp.webui
 {
     public class Startup
     {
-        // This method gets called by the runtime. Use this method to add services to the container.
-        // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            // mvc
-            // razor pages
+            services.AddScoped<ICategoryRepository,EfCoreCategoryRepository>(); 
             services.AddScoped<IProductRepository,EfCoreProductRepository>(); 
+
             services.AddScoped<IProductService,ProductManager>(); 
+            services.AddScoped<ICategoryService,CategoryManager>(); 
+
             services.AddControllersWithViews();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseStaticFiles(); // wwwroot
@@ -49,15 +48,28 @@ namespace shopapp.webui
              
             app.UseRouting();
 
-            // localhost:5000
-            // localhost:5000/home
-            // localhost:5000/home/index
-            // localhost:5000/product/details/3
-            // localhost:5000/product/list/2
-            // localhost:5000/category/list
-
             app.UseEndpoints(endpoints =>
-            {
+            {     
+
+                // localhost/search    
+                endpoints.MapControllerRoute(
+                    name: "search", 
+                    pattern: "search",
+                    defaults: new {controller="Shop",action="search"}
+                );
+
+                endpoints.MapControllerRoute(
+                    name: "productdetails", 
+                    pattern: "{url}",
+                    defaults: new {controller="Shop",action="details"}
+                );
+
+                endpoints.MapControllerRoute(
+                    name: "products", 
+                    pattern: "products/{category?}",
+                    defaults: new {controller="Shop",action="list"}
+                );
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern:"{controller=Home}/{action=Index}/{id?}"
