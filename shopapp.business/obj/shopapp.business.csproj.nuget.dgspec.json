@@ -1,35 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.business\\shopapp.business.csproj": {}
+    "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.business\\shopapp.business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.business\\shopapp.business.csproj": {
+    "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.business\\shopapp.business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.business\\shopapp.business.csproj",
+        "projectUniqueName": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.business\\shopapp.business.csproj",
         "projectName": "shopapp.business",
-        "projectPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.business\\shopapp.business.csproj",
-        "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.business\\obj\\",
+        "projectPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.business\\shopapp.business.csproj",
+        "packagesPath": "C:\\Users\\sadikturan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sadikturan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.data\\shopapp.data.csproj": {
-                "projectPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.data\\shopapp.data.csproj"
+              "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.data\\shopapp.data.csproj": {
+                "projectPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.data\\shopapp.data.csproj"
               },
-              "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.entity\\shopapp.entity.csproj": {
-                "projectPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.entity\\shopapp.entity.csproj"
+              "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.entity\\shopapp.entity.csproj": {
+                "projectPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.entity\\shopapp.entity.csproj"
               }
             }
           }
@@ -60,33 +62,35 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.424\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.data\\shopapp.data.csproj": {
+    "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.data\\shopapp.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.data\\shopapp.data.csproj",
+        "projectUniqueName": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.data\\shopapp.data.csproj",
         "projectName": "shopapp.data",
-        "projectPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.data\\shopapp.data.csproj",
-        "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.data\\obj\\",
+        "projectPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.data\\shopapp.data.csproj",
+        "packagesPath": "C:\\Users\\sadikturan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sadikturan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.entity\\shopapp.entity.csproj": {
-                "projectPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.entity\\shopapp.entity.csproj"
+              "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.entity\\shopapp.entity.csproj": {
+                "projectPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.entity\\shopapp.entity.csproj"
               }
             }
           }
@@ -127,26 +131,28 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.424\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.entity\\shopapp.entity.csproj": {
+    "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.entity\\shopapp.entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.entity\\shopapp.entity.csproj",
+        "projectUniqueName": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
         "projectName": "shopapp.entity",
-        "projectPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.entity\\shopapp.entity.csproj",
-        "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\Desktop\\Asp.Net-Core-Mvc-Uygulama_shopapp\\shopapp.entity\\obj\\",
+        "projectPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+        "packagesPath": "C:\\Users\\sadikturan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\5-Kullanıcı Sayfaları\\12-Kelimeye Göre Ürün Arama\\shopapp\\shopapp.entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sadikturan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -180,7 +186,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.424\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
